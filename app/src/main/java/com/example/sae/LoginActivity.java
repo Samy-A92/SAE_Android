@@ -33,11 +33,17 @@ public class LoginActivity extends AppCompatActivity {
         @SuppressLint({"MissingInflatedId", "LocalSuppress"})
         EditText editTextLogin = findViewById(R.id.editTextLogin);
 
+        @SuppressLint({"MissingInflatedId", "LocalSuppress"})
         EditText editTextPassword = findViewById(R.id.editTextPassword);
+
+        @SuppressLint({"MissingInflatedId", "LocalSuppress"})
 
         TextView textViewErrorConnecting = findViewById(R.id.textViewErrorConnecting);
         textViewErrorConnecting.setVisibility(View.INVISIBLE);
+
+        @SuppressLint({"MissingInflatedId", "LocalSuppress"})
         Button buttonConnect = findViewById(R.id.connect);
+
         buttonConnect.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
