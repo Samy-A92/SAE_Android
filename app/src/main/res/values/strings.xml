@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">SAE</string>
+    <string name="connect">Connexion</string>
+    <string name="login">Login</string>
+    <string name="password">Mot de passe</string>
+    <string name="errorConnecting">Login ou mot de passe incorrect</string>
     <string name="computer_name">Nom du PC</string>
     <string name="room">Salle</string>
     <string name="inventory_title">Inventaire</string>
