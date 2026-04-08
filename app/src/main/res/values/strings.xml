@@ -3,4 +3,6 @@
     <string name="computer_name">Nom du PC</string>
     <string name="room">Salle</string>
     <string name="inventory_title">Inventaire</string>
+    <string name="deconnexion">Déconnexion</string>
+
 </resources>
