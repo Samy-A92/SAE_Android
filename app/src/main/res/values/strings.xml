@@ -8,5 +8,5 @@
     <string name="room">Salle</string>
     <string name="inventory_title">Inventaire</string>
     <string name="deconnexion">Déconnexion</string>
-
+    <string name="ajout_machine_button">Ajout d\'une machine</string>
 </resources>
